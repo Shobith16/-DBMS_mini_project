@@ -29,7 +29,7 @@ To get a copy of this project up and running on your local machine, follow the i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/placement-management-system.git
+   git clone https://github.com/Shobith16/CampusConnect.git
 
 Placement Management System
 Landing Page:
